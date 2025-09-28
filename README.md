@@ -1,5 +1,3 @@
-Of course. Here is a complete README.md for your project. You can copy and paste this directly into a `README.md` file in your project's root directory.
-
 -----
 
 # 🧠 Cognitive RAG Agent: A Behavioral Finance Coach
