@@ -1,0 +1,5 @@
+Optimism Bias
+• Clear Definition: Optimism bias, also known as unrealistic optimism, is a cognitive bias that causes an individual to believe they are less likely to experience negative events and more likely to experience positive outcomes than others. In finance, this can manifest as being overly optimistic about a stock's future earnings and valuation, leading to an illusion of invincibility where market misfortunes are seen as something that only affects other people.
+• Actionable Coping Strategies:
+    1. Practice Rational Thinking: Actively consider that any event has a probability of ending both positively and negatively. Instead of only focusing on potential profits, make decisions designed to avoid losses and always consider the worst-case scenario before acting.
+    2. Use Reference Class Forecasting: When evaluating a new investment, compare it to the historical performance of similar products within the same asset class. This helps ground your expectations in reality rather than overly optimistic projections.

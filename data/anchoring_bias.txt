@@ -1,0 +1,6 @@
+Anchoring Bias
+• Clear Definition: Anchoring bias is a cognitive bias where an individual relies too heavily on an initial piece of information—the "anchor"—when making subsequent decisions.
+This can involve the subconscious use of irrelevant information, such as the purchase price of a security, as a fixed reference point for all future choices about that security. This bias can lead investors to hold onto assets that have lost value, hoping they will return to the original purchase price.
+• Actionable Coping Strategies:
+    1. Conduct Comprehensive and Independent Research: To eliminate anchoring bias, it is necessary to perform thorough research and assess the factors affecting a security's price, rather than relying on a single reference point. You can counter the bias by identifying the factors behind an anchor and replacing assumptions with quantifiable data.
+    2. Allow Time to "Diffuse the Anchor": Create a deliberate gap in time between researching investment ideas and making the final decision to invest. This pause can help weaken the hold of the initial information, allowing for a more objective evaluation.
